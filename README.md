@@ -18,18 +18,19 @@
 
 <h3>🛠 Tech Stack</h3>
 
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
--->
-
+class Bio extends SoftwareDeveloper {
+  name     = 'Jacqueline Martínez';
+  title    = 'Ingeniero en tecnologías de la información';
+  company  = 'Kitne IT Solutions and Consulting | Remote';
+}
+class Skills extends SoftwareDeveloper {
+   'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS','Boostrap','Angular'],
+   'backend': ['PHP','Laravel'],
+   'database': ['MySQL', 'SQL Server'],
+   'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+   'tools': ['GIT', 'GitHub'],
+   'misc': ['Firebase','SCRUM', 'Metodología APP']
+}
 
 
 <h3>🛠 To Learn</h3>
